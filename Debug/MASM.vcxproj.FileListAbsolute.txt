@@ -1,0 +1,9 @@
+C:\Users\danzw\source\repos\MASM\Debug\MASM.exe
+C:\Users\danzw\source\repos\MASM\Debug\MASM.vcxproj.CopyComplete
+C:\Users\danzw\source\repos\MASM\Debug\raylib.dll
+C:\Users\danzw\source\repos\MASM Raylib Hello World\Debug\MASM.vcxproj.CopyComplete
+C:\Users\danzw\source\repos\MASM Raylib Hello World\Debug\MASM Raylib Hello World.exe
+C:\Users\danzw\source\repos\MASM Raylib Hello World\Debug\raylib.dll
+C:\Users\danzw\source\repos\MASM_Raylib_Hello_World\Debug\MASM.vcxproj.CopyComplete
+C:\Users\danzw\source\repos\MASM_Raylib_Hello_World\Debug\MASM_Raylib_Hello_World.exe
+C:\Users\danzw\source\repos\MASM_Raylib_Hello_World\Debug\raylib.dll
