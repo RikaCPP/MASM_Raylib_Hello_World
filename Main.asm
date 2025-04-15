@@ -49,8 +49,7 @@ main proc
         mov         eax,dword ptr ColBG  
         push        eax
         call        ClearBackground
-        add         esp,4  
-        cmp         esi,esp  
+        add         esp,4    
 
         call BeginDrawing
 
@@ -67,7 +66,6 @@ main proc
         push        ecx  
         call        DrawRectangle
         add         esp,14h  
-        cmp         esi,esp
         call EndDrawing
     jmp whilestart
     whileexit:
